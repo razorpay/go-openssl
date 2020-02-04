@@ -1,0 +1,6 @@
+github.com/akashsharma95/openssl v0.0.0-20200201091815-abc627ffdaa9 h1:7zEGWY9YkmVV+/Ga8TFmNLIgsP2IKAGNl/DEZlEsDVc=
+github.com/akashsharma95/openssl v0.0.0-20200201091815-abc627ffdaa9/go.mod h1:n2qJFKrkuW5IScm8Fua0Njupd/DIo64Wr30vKNcfe8E=
+github.com/spacemonkeygo/openssl v0.0.0-20181017203307-c2dcc5cca94a h1:/eS3yfGjQKG+9kayBkj0ip1BGhq6zJ3eaVksphxAaek=
+github.com/spacemonkeygo/openssl v0.0.0-20181017203307-c2dcc5cca94a/go.mod h1:7AyxJNCJ7SBZ1MfVQCWD6Uqo2oubI2Eq2y2eqf+A5r0=
+github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572 h1:RC6RW7j+1+HkWaX/Yh71Ee5ZHaHYt7ZP4sQgUrm6cDU=
+github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572/go.mod h1:w0SWMsp6j9O/dk4/ZpIhL+3CkG8ofA2vuv7k+ltqUMc=
